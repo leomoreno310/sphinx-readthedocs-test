@@ -6,8 +6,8 @@ An entire platform where you can focus on the science rather than the code, comp
 large genomic data analysis pipelines. For additional infromation or free trail/activation of your account, email us at 
 help@almaden.io. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`overview` section for further information, including
+tutorials :doc:`tutorials` for how to create your first bioinformatics workflow.
 
 .. note::
 
@@ -18,5 +18,8 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   overview
+   tutorials
+   reference_guides
+   topic_guides
+   how_to_guides
