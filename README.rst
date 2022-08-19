@@ -8,15 +8,15 @@ Read the tutorial here:
 
 https://docs.readthedocs.io/en/stable/tutorial/
 
-Markdown Cheat Sheet
----------------------------- 
-
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
 reStructured Cheat Sheet
 ----------------------------
 
 https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst
+
+Sphinx Build your first project tutorial 
+-----------------------------------------
+
+https://www.sphinx-doc.org/en/master/tutorial/index.html
 
 Sphinx Directives 
 ----------------------------
