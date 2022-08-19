@@ -1,5 +1,5 @@
 Welcome to Almaden Genomic's platform documentation!
-===================================
+======================================================================
 
 **Almaden Genomics** is a plaform to streamline complex bioinformatics workflows using a graphical user interface. 
 An entire platform where you can focus on the science rather than the code, computing, and infastructure of running 
