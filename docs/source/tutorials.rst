@@ -10,7 +10,6 @@ For this tutorial we will be creating a simple alignment pipeline using `fastp <
 and `bwa <http://bio-bwa.sourceforge.net/bwa.shtml>`_. 
 
 .. image:: _images/simple_alignment_pipeline.png 
-    :width: 600 
     :alt: Simple alignment pipeline
 
 Create Project
