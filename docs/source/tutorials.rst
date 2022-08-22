@@ -15,19 +15,11 @@ and `bwa <http://bio-bwa.sourceforge.net/bwa.shtml>`_.
 Create Project
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+On the top right corner of your Project's page, hit ``Create Project`` and enter the corresponding information. 
 
-.. autofunction:: lumache.get_random_ingredients
+.. image:: _images/create_project.png
+    :alt Create first project 
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+::
+    Project Name: ``My first alignment pipeline``
+    Project Description: ``Uses fastp and bwa to align subsampled E. Coli fastq files to the E. Coli genome.``
