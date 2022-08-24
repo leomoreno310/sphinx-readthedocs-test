@@ -21,7 +21,13 @@ Contents
    :maxdepth: 5
 
    overview
-   test/*
    reference_guides
    topic_guides
    how_to_guides
+
+.. toctree::
+   :title: Main
+   :glob:
+
+   test/main 
+   test/sections/*
