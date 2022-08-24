@@ -25,8 +25,10 @@ Contents
    topic_guides
    how_to_guides
 
+Main
+-------
+
 .. toctree::
-   :title: Main
    :glob:
 
    test/main 
