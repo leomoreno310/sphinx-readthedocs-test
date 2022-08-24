@@ -18,9 +18,9 @@ Contents
 
 .. toctree::
    :glob:
-   
+
    overview
-   tutorials/*
+   test/*
    reference_guides
    topic_guides
    how_to_guides
