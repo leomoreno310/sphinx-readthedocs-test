@@ -17,7 +17,8 @@ Contents
 --------
 
 .. toctree::
-
+   :glob:
+   
    overview
    tutorials/*
    reference_guides
