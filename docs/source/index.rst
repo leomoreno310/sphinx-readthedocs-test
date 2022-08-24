@@ -19,7 +19,7 @@ Contents
 .. toctree::
 
    overview
-   tutorials
+   tutorials/*
    reference_guides
    topic_guides
    how_to_guides
