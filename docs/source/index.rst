@@ -18,6 +18,7 @@ Contents
 
 .. toctree::
    :glob:
+   :maxdepth: 5
 
    overview
    test/*
