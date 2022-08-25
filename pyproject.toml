@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "sphinx_readthedocs_test"
+name = "docs"
 version = "0.1.0"
 description = ""
 authors = ["Alamden Genomics, 2022"]
