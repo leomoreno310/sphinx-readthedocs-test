@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Almaden Genomics'
+copyright = '2022, Almaden Genomics'
+author = 'Almaden Genomics'
 
 release = '0.1'
 version = '0.1.0'
