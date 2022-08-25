@@ -24,11 +24,4 @@ Contents
    reference_guides
    topic_guides
    how_to_guides
-
-Main
--------
-
-.. toctree::
-   :glob:
-
-   test/main 
+   tutorials/tutorials 
