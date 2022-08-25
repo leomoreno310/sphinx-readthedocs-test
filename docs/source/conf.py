@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Almaden Genomics'
+project = 'Almaden_Genomics'
 copyright = '2022, Almaden Genomics'
 author = 'Almaden Genomics'
 
