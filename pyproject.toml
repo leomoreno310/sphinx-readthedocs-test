@@ -2,6 +2,8 @@
 requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
-[project]
-authors = [{name = "Leo Moreno", email = "leo@almaden.io"}]
-dynamic = ["version", "description"]
+[tool.poetry]
+name = "sphinx-readthedocs-test" 
+version = "0.1.0"
+authors = ["Leo Moreno"]
+description = ""
