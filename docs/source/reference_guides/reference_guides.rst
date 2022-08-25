@@ -7,23 +7,9 @@ for naviagting through the platform but also for possible debugging of workflow 
 
 Here is a simple definition of what objects exist on platform. 
 
-Modules
-------------
-
-Dataset 
-------------
-
-Collection 
-------------
-
-Variables 
-------------
-
-Vectorization 
--------------
-
-Tool Library 
--------------
-
-
-
+.. include:: sections/modules.rst
+.. include:: sections/collection.rst
+.. include:: sections/dataset.rst
+.. include:: sections/variables.rst
+.. include:: sections/vectorization.rst
+.. include:: sections/tool_library.rst

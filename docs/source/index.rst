@@ -6,8 +6,8 @@ An entire platform where you can focus on the science rather than the code, comp
 large genomic data analysis pipelines. For additional information or free trail/activation of your account, email us at 
 help@almaden.io. 
 
-Check out the :doc:`overview` section for further information, including
-:doc:`tutorials` for how to create your first bioinformatics workflow.
+Check out the :doc:`overview/overview` section for further information, including
+:doc:`tutorials/tutorials` for how to create your first bioinformatics workflow.
 
 .. note::
 
@@ -20,8 +20,8 @@ Contents
    :glob:
    :maxdepth: 5
 
-   overview
-   reference_guides
-   topic_guides
-   how_to_guides
+   overview/overview
+   reference_guides/reference_guides
+   topic_guides/topic_guides
+   how_to_guides/how_to_guides
    tutorials/tutorials 
