@@ -3,7 +3,7 @@ Create Project
 
 On the top right corner of your Project's page, hit ``Create Project`` and enter the corresponding information. 
 
-.. image:: /../../_images/first_align_pipeline.png
+.. image:: /_images/first_align_pipeline.png
     :alt: Create first project 
 
 ::
