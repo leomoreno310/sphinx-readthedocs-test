@@ -7,4 +7,5 @@ and `bwa <http://bio-bwa.sourceforge.net/bwa.shtml>`_.
 .. image:: /_images/simple_alignment_pipeline.png 
     :alt: Simple alignment pipeline
 
+.. Include additional sections here 
 .. include:: sections/create_project.rst
