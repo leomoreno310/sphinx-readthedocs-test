@@ -9,6 +9,8 @@ help@almaden.io.
 Check out the :doc:`overview/overview` section for further information, including
 :doc:`tutorials/tutorials` for how to create your first bioinformatics workflow.
 
+Lumache has its documentation hosted on Read the Docs.
+
 .. note::
 
    This project is under active development.
